@@ -17,44 +17,13 @@ track: Information Science and Computation Technology
 interests:
   - Data Engineering & Analytics
   - Full-Stack Development
-  - Human-in-the-loop systems
   - Automation & Simulation
 ````
 
 🔍 I love solving real-world problems through code — from automating boring stuff to building smart tools.
-🧰 Whether it's a GUI app, backend API, or data pipeline — I enjoy designing systems that just work.
-🚀 Passionate about open source, sports tech, and making code readable and reliable.
-🛠 Currently working on projects where data meets infrastructure and interface.
-
----
-
-## 🔧 My Toolbox
-
-```mermaid
-graph TD
-  A[Programming Languages] --> Python
-  A --> C++
-  A --> SQL
-```
-
-```mermaid
-graph TD
-  B[Frameworks & Libraries] --> sklearn
-  B --> FastAPI
-  B --> Qt
-  B --> seaborn
-  B --> pandas
-```
-
-```mermaid
-graph TD
-  C[DevOps & Infra] --> Docker
-  C --> PostgreSQL
-  C --> Git
-  C --> Linux
-  C --> CI_CD[CI/CD]
-
-```
+Whether it's a GUI app, backend API, or data pipeline — I enjoy designing systems that just work.
+Passionate about open source, sports tech, and making code readable and reliable.
+Currently working on projects where data meets infrastructure and interface.
 
 
 ---
