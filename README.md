@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm <a href="https://github.com/yourusername" target="_blank">Stepan</a> 👨‍💻</h1>
+<h1 align="center">Hey there! I'm <a href="https://github.com/Dbyavol" target="_blank">Stepan</a> 👨‍💻</h1>
 <h3 align="center">🎓 Engineering student @ Higher School of Economics · 🛠️ System Thinker · 📊 Data Explorer</h3>
 
 <p align="center">
@@ -33,8 +33,9 @@ Currently working on projects where data meets infrastructure and interface.
 | 📌 Project  | 🔍 Description  | 🔧 Stack  |
 | ----------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------- |
 | **📦 Equipment Tracker App** | Desktop app for managing equipment issuance with GUI + backend API | `Python`, `PyQt`, `FastAPI`, `PostgreSQL` |
-| **🏃‍♂️ Zwift Open Clone**    | Desktop cycling simulator with live data from bike trainer & heart rate sensors | `Python`, `Qt`, `Bluetooth`, `pyqtgraph`    |
-| **🗳️ Market Analytics** | Service for comparing prices from diffent sites                                  | `Python`, `Playwright`, `pandas`|
+| **🕷️ Flexible Crawler** | Web-extension with API-driven system for launching and controlling configurable web crawlers|`Python`, `FastAPI`, `Scrapy`, `Kafka`, `Docker`|
+| **🏃‍♂️ Zwift Open Clone**| Desktop cycling simulator with live data from bike trainer & heart rate sensors | `Python`, `Qt`, `Bluetooth`, `pyqtgraph`    |
+| **🗳️ Market Analytics** | Service for comparing prices from diffent sites| `Python`, `Playwright`, `pandas`|
 | **📊 Competition results analyzer**  | Interactive animated visualizations to analyze and display dynamic performance data from a sports orienteering competition.  | `Python`, `Playwright`, `pandas`, `plotly`|
 
 
