@@ -34,10 +34,11 @@ Currently working on projects where data meets infrastructure and interface.
 | ----------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------- |
 | [**📦 Equipment Tracker App**](https://github.com/Dbyavol/Equipment-issuance-accounting-program) | Desktop app for managing equipment issuance with GUI + backend API | `Python`, `PyQt`, `FastAPI`, `PostgreSQL` |
 | [**🕷️ Flexible Crawler**](https://github.com/Dbyavol/flexible-crawler)   | Web-extension with API-driven system for launching and controlling configurable web crawlers|`Python`, `FastAPI`, `Scrapy`, `Kafka`, `Docker`|
-| [**🏃‍♂️ Zwift Open Clone**](https://github.com/Dbyavol/zwift-analog) | Desktop cycling simulator with live data from bike trainer & heart rate sensors | `Python`, `Qt`, `Bluetooth`, `pyqtgraph`    |
 | [**🗳️ Market Analytics**](https://github.com/Dbyavol/market-analytics) | Service for comparing prices from diffent sites| `Python`, `Playwright`, `pandas`|
 | **📊 Competition results analyzer**  | Interactive animated visualizations to analyze and display dynamic performance data from a sports orienteering competition.  | `Python`, `Playwright`, `pandas`, `plotly`|
-| [**🗳️ DevOps Labs**](https://github.com/Dbyavol/devops-labs) | Practical work on studying devops| `Git`, `Docker`, `Kubernetes`, `Jenkins`, `Ansible`, 	`filebeat`, `Logstash`, `Elasticsearch`, `Kibana`|
+| [**🛠️ DevOps Labs**](https://github.com/Dbyavol/devops-labs) | Practical work on studying devops| `Git`, `Docker`, `Kubernetes`, `Jenkins`, `Ansible`, 	`filebeat`, `Logstash`, `Elasticsearch`, `Kibana`|
+| [**🗃️ DWH Labs**](https://github.com/Dbyavol/dwh-lab) | Practical work on bulding Data Vault| `Liquibase`, `Postgres`, `Apache Airflow`, `dbt`, `automatedv`, `Docker`|
+| [**🏃‍♂️ Zwift Open Clone**](https://github.com/Dbyavol/zwift-analog) | Desktop cycling simulator with live data from bike trainer & heart rate sensors | `Python`, `Qt`, `Bluetooth`, `pyqtgraph`    |
 
 
 
